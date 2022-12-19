@@ -1,0 +1,6 @@
+{
+    "title": "預測ACER股價",
+    "description": "3年級期末作業：使用python中的keras函式庫進行深度學習來對ACER股價進行預測。",
+    "content": "這堂課我的組員不太會寫程式，所以我讓他們他們只負責抓歷史股價跟做PPT和WORD，還有最後我把模型參數給他們慢慢調，基於這程式碼幾乎都我寫的，我就把它拿來當我的作品了。",
+    "github": "https://github.com/94ek786/acerAI_P"
+}
